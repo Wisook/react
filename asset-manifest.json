@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.818ce1a3.css",
+    "main.js": "/react/static/js/main.377cc58d.js",
+    "static/media/akaya-telivigala-all-400-normal.woff": "/react/static/media/akaya-telivigala-all-400-normal.78fd8cb2a221beeb77ce.woff",
+    "static/media/akaya-telivigala-telugu-400-normal.woff2": "/react/static/media/akaya-telivigala-telugu-400-normal.cc24af700d82d6ced8f6.woff2",
+    "static/media/akaya-telivigala-latin-400-normal.woff2": "/react/static/media/akaya-telivigala-latin-400-normal.6adfb2bb1dd65aa73a6c.woff2",
+    "static/media/sora-all-400-normal.woff": "/react/static/media/sora-all-400-normal.fc2a204a844d60c30272.woff",
+    "static/media/akaya-telivigala-latin-ext-400-normal.woff2": "/react/static/media/akaya-telivigala-latin-ext-400-normal.806924fe3d6edb5e4e59.woff2",
+    "static/media/sora-latin-400-normal.woff2": "/react/static/media/sora-latin-400-normal.7055d291e674243dedf8.woff2",
+    "static/media/sora-latin-ext-400-normal.woff2": "/react/static/media/sora-latin-ext-400-normal.101a61e4b152678c5ec1.woff2",
+    "static/media/Arrow.svg": "/react/static/media/Arrow.2aa046cef6c722596b055a335b4a9792.svg",
+    "index.html": "/react/index.html",
+    "static/media/Ethereum.svg": "/react/static/media/Ethereum.44caf7f687ceac7228b187be67a0a151.svg",
+    "static/media/Plus.svg": "/react/static/media/Plus.ab0473dab66c55468e97f60aeb65a26e.svg",
+    "main.818ce1a3.css.map": "/react/static/css/main.818ce1a3.css.map",
+    "main.377cc58d.js.map": "/react/static/js/main.377cc58d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.818ce1a3.css",
+    "static/js/main.377cc58d.js"
+  ]
+}
